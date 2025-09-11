@@ -1,5 +1,5 @@
 # CS.15 Assistant 🎓🤖  
-**CS.15 Assistant** is a machine learning–powered chatbot designed to support students by answering questions about class lectures and topics. Instead of giving away direct solutions, the assistant guides learners by providing explanations, context, and helpful insights to reinforce understanding.  
+**CS.15 Assistant** is a machine learning–powered chatbot designed during Tufts 2025 spring semester Hackathon to support students CS 15 (Data Structures and Algorithm) by answering questions about class lectures and topics. Instead of giving away direct solutions, the assistant guides learners by providing explanations, context, and helpful insights to reinforce understanding.  
 
 Built using **ChatGPT 3.0** and **Retrieval-Augmented Generation (RAGs)**, the assistant can retrieve relevant lecture materials and combine them with generative AI to produce accurate, context-aware answers.  
 
